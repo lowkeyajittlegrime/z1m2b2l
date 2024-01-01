@@ -18,9 +18,9 @@
 0.0.0.0 www.avira.com
 0.0.0.0 www.avg.com
 0.0.0.0 www.bitdefender.com
-  0.0.0.0      www.malwarebytes.com
+0.0.0.0 www.malwarebytes.com
 0.0.0.0 www.virustotal.com
-  0.0.0.0      www.avast.com
+0.0.0.0 www.avast.com
 0.0.0.0 www.mcafee.com
 0.0.0.0 www.totalav.com
 0.0.0.0 www.avast.com
@@ -30,3 +30,28 @@
 0.0.0.0 www.kaspersky.com
 0.0.0.0 www.webroot.com
 0.0.0.0 www.norton.com
+0.0.0.0 www.sourceforge.io
+0.0.0.0 www.sourceforge.net
+0.0.0.0 www.processhacker.sourceforge.io
+0.0.0.0 www.majorgeeks.com
+0.0.0.0 www.filehippo.com
+0.0.0.0 avira.com
+0.0.0.0 avg.com
+0.0.0.0 bitdefender.com
+0.0.0.0 malwarebytes.com
+0.0.0.0 virustotal.com
+0.0.0.0 avast.com
+0.0.0.0 mcafee.com
+0.0.0.0 totalav.com
+0.0.0.0 avast.com
+0.0.0.0 f-secure.com
+0.0.0.0 zonealarm.com
+0.0.0.0 pandasecurity.com
+0.0.0.0 kaspersky.com
+0.0.0.0 webroot.com
+0.0.0.0 norton.com
+0.0.0.0 sourceforge.io
+0.0.0.0 sourceforge.net
+0.0.0.0 processhacker.sourceforge.io
+0.0.0.0 majorgeeks.com
+0.0.0.0 filehippo.com
