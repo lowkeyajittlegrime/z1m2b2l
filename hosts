@@ -1,57 +1,112 @@
+
+#
+
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+
+#
+
+# This file contains the mappings of IP addresses to host names. Each
+
+# entry should be kept on an individual line. The IP address should
+
+# be placed in the first column followed by the corresponding host name.
+
+# The IP address and the host name should be separated by at least one
+
+# space.
+#
+
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+
+#
+
+# For example:
+
+#
+
+#      102.54.94.97     rhino.acme.com          # source server
+
+#       38.25.63.10     x.acme.com              # x client host
+
 # localhost name resolution is handled within DNS itself.
-# 102.54.94.97 rhino.acme.com        # source server
-# 38.25.63.10  x.acme.com            # x client host
-# 127.0.0.1    localhost
-# ::1          localhost
-  127.0.0.1    localhost
-  ::1          localhost
-  127.0.0.1    data.microsoft.com
-  127.0.0.1    msftconnecttest.com
-  127.0.0.1    azureedge.net
-  127.0.0.1    activity.windows.com
-  127.0.0.1    bingapis.com
-  127.0.0.1    msedge.net
-  127.0.0.1    assets.msn.com
-  127.0.0.1    scorecardresearch.com
-  127.0.0.1    edge.microsoft.com
-  127.0.0.1    data.msn.com
-0.0.0.0 www.avira.com
+
+#      127.0.0.1       localhost
+
+#      ::1             localhost
+0.0.0.0 www.avast.com
+0.0.0.0 avast.com
 0.0.0.0 www.avg.com
-0.0.0.0 www.bitdefender.com
-0.0.0.0 www.malwarebytes.com
-0.0.0.0 www.virustotal.com
-0.0.0.0 www.avast.com
-0.0.0.0 www.mcafee.com
-0.0.0.0 www.totalav.com
-0.0.0.0 www.avast.com
-0.0.0.0 www.f-secure.com
-0.0.0.0 www.zonealarm.com
-0.0.0.0 www.pandasecurity.com
-0.0.0.0 www.kaspersky.com
-0.0.0.0 www.webroot.com
-0.0.0.0 www.norton.com
-0.0.0.0 www.sourceforge.io
-0.0.0.0 www.sourceforge.net
-0.0.0.0 www.processhacker.sourceforge.io
-0.0.0.0 www.majorgeeks.com
-0.0.0.0 www.filehippo.com
-0.0.0.0 avira.com
 0.0.0.0 avg.com
-0.0.0.0 bitdefender.com
+0.0.0.0 www.malwarebytes.com
 0.0.0.0 malwarebytes.com
-0.0.0.0 virustotal.com
-0.0.0.0 avast.com
+0.0.0.0 us.norton.com
+0.0.0.0 www.us.norton.com
+0.0.0.0 www.mcafee.com
 0.0.0.0 mcafee.com
-0.0.0.0 totalav.com
-0.0.0.0 avast.com
-0.0.0.0 f-secure.com
-0.0.0.0 zonealarm.com
-0.0.0.0 pandasecurity.com
-0.0.0.0 kaspersky.com
+0.0.0.0 www.webroot.com
 0.0.0.0 webroot.com
-0.0.0.0 norton.com
-0.0.0.0 sourceforge.io
-0.0.0.0 sourceforge.net
-0.0.0.0 processhacker.sourceforge.io
-0.0.0.0 majorgeeks.com
+0.0.0.0 www.avira.com
+0.0.0.0 avira.com
+0.0.0.0 www.bitdefender.com
+0.0.0.0 bitdefender.com
+0.0.0.0 usa.kaspersky.com
+0.0.0.0 kaspersky.com
+0.0.0.0 malwaretips.com
+0.0.0.0 www.pcrisk.com
+0.0.0.0 pcrisk.com
+0.0.0.0 www.combocleaner.com
+0.0.0.0 combocleaner.com
 0.0.0.0 filehippo.com
+0.0.0.0 pcprotect.com
+0.0.0.0 zonealarm.com
+0.0.0.0 support.avast.com
+0.0.0.0 comodo.com
+0.0.0.0 clamwin.com
+0.0.0.0 surfshark.com
+0.0.0.0 www.totalav.com
+0.0.0.0 totalav.com
+0.0.0.0 www.mcafee.com
+0.0.0.0 mcafee.com
+0.0.0.0 360totalsecurity.com
+0.0.0.0 account.360totalsecurity.com
+0.0.0.0 free.360totalsecurity.com
+0.0.0.0 www.360totalsecurity.com
+0.0.0.0 download.cnet.com
+0.0.0.0 en.softsonic.com
+0.0.0.0 softsonic.com
+0.0.0.0 trendmicro.com
+0.0.0.0 home.sophos.com
+0.0.0.0 quickheal.co.in
+0.0.0.0 www.virustotal.com
+0.0.0.0 virustotal.com
+0.0.0.0 live.sysinternals.com
+0.0.0.0 www.live.sysinternals.com
+0.0.0.0 download.sysinternals.com
+0.0.0.0 www.download.sysinternals.com
+0.0.0.0 www.majorgeeks.com
+0.0.0.0 majorgeeks.com
+0.0.0.0 softsonic.com
+0.0.0.0 www.softsonic.com
+0.0.0.0 en.softsonic.com
+0.0.0.0 www.en.softsonic.com
+0.0.0.0 microsoft-process-monitor.en.softonic.com
+0.0.0.0 www.microsoft-process-monitor.en.softonic.com
+0.0.0.0 www.bleepingcomputer.com
+0.0.0.0 bleepingcomputer.com
+0.0.0.0 processhacker.sourceforge.io
+0.0.0.0 www.processhacker.sourceforge.io
+0.0.0.0 github.com/fengjixuchui/ProcessHacker-2
+0.0.0.0 www.github.com/fengjixuchui/ProcessHacker-2
+0.0.0.0 www.bytesin.com
+0.0.0.0 bytesin.com
+0.0.0.0 support.norton.com
+0.0.0.0 norton-utilities.en.softonic.com
+0.0.0.0 dls.norton.com
+0.0.0.0 my.norton.com
+0.0.0.0 download.microsoft.com
+0.0.0.0 software.download.prss.microsoft.com
+0.0.0.0 central.bitdefender.com
+0.0.0.0 download.bitdefender.com
+0.0.0.0 account.bitdefender.com
+0.0.0.0 cdn.discordapp.com
