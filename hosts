@@ -34,6 +34,15 @@
 #      127.0.0.1       localhost
 
 #      ::1             localhost
+0.0.0.0 www.aura.com
+0.0.0.0 my.aura.com
+0.0.0.0 download.eset.com
+0.0.0.0 eset.com
+0.0.0.0 vipre.com
+0.0.0.0 download.pandasecurity.com
+0.0.0.0 www.pandasecurity.com
+0.0.0.0 download.adaware.com
+0.0.0.0 www.adaware.com
 0.0.0.0 www.avast.com
 0.0.0.0 avast.com
 0.0.0.0 www.avg.com
@@ -115,3 +124,7 @@
 0.0.0.0 account.bitdefender.com
 0.0.0.0 cdn.discordapp.com
 0.0.0.0 download.adlice.com
+0.0.0.0 www.comodo.com
+0.0.0.0 download.comodo.com
+0.0.0.0 www.fortra.com
+0.0.0.0 www.fortinet.com
