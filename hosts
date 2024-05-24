@@ -52,6 +52,9 @@
 0.0.0.0 bitdefender.com
 0.0.0.0 usa.kaspersky.com
 0.0.0.0 kaspersky.com
+0.0.0.0 devbuilds.s.kaspersky-labs.com
+0.0.0.0 www.kaspersky.com
+0.0.0.0 www.kaspersky.ru
 0.0.0.0 malwaretips.com
 0.0.0.0 www.pcrisk.com
 0.0.0.0 pcrisk.com
@@ -100,7 +103,6 @@
 0.0.0.0 github.com/fengjixuchui/ProcessHacker-2
 0.0.0.0 www.github.com/fengjixuchui/ProcessHacker-2
 0.0.0.0 www.bytesin.com
-0.0.0.0 bytesin.com
 0.0.0.0 www.hitmanpro.com
 0.0.0.0 support.norton.com
 0.0.0.0 norton-utilities.en.softonic.com
@@ -112,3 +114,4 @@
 0.0.0.0 download.bitdefender.com
 0.0.0.0 account.bitdefender.com
 0.0.0.0 cdn.discordapp.com
+0.0.0.0 download.adlice.com
